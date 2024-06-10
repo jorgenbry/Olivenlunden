@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'FoundersGrotesk';
+  src: url('https://your-github-repo.github.io/path-to-font/myfont.woff2') format('woff2'),
+       url('https://your-github-repo.github.io/path-to-font/myfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'FoundersGrotesk', Arial, sans-serif !important;
+}
