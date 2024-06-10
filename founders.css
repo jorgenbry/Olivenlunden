@@ -1,7 +1,10 @@
 @font-face {
   font-family: 'FoundersGrotesk';
-  src: url('https://your-github-repo.github.io/path-to-font/myfont.woff2') format('woff2'),
-       url('https://your-github-repo.github.io/path-to-font/myfont.woff') format('woff');
+  src: url('https://jorgenbry.github.io/Olivenlunden/Fonts/founders-grotesk-x-condensed-medium.woff2') format('woff2'),
+       url('https://jorgenbry.github.io/Olivenlunden/Fonts/founders-grotesk-x-condensed-medium.woff') format('woff'),
+       url('https://jorgenbry.github.io/Olivenlunden/Fonts/founders-grotesk-x-condensed-medium.ttf') format('ttf'),
+       url('https://jorgenbry.github.io/Olivenlunden/Fonts/founders-grotesk-x-condensed-medium.otf') format('otf'),
+       url('https://jorgenbry.github.io/Olivenlunden/Fonts/founders-grotesk-x-condensed-medium.eot') format('eot');
   font-weight: normal;
   font-style: normal;
 }
